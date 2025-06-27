@@ -1,0 +1,46 @@
+{
+  "inventory": [
+    {
+      "id": "1",
+      "name": "Steel Rods",
+      "quantity": 50,
+      "minStock": 100
+    },
+    {
+      "id": "2",
+      "name": "Ball Bearings",
+      "quantity": 80,
+      "minStock": 200
+    },
+    {
+      "id": "3",
+      "name": "Lubricant Oil",
+      "quantity": 45,
+      "minStock": 50
+    },
+    {
+      "id": "4",
+      "name": "Copper Wire",
+      "quantity": 300,
+      "minStock": 200
+    },
+    {
+      "id": "5",
+      "name": "Aluminum Sheets",
+      "quantity": 120,
+      "minStock": 100
+    },
+    {
+      "id": "fe15",
+      "name": "Pipes",
+      "quantity": 70,
+      "minStock": 100
+    },
+    {
+      "id": "76d2",
+      "name": "cement",
+      "quantity": 50,
+      "minStock": 20
+    }
+  ]
+}
